@@ -1,4 +1,4 @@
-# CI-CD-Demo 🚀
+# 🚀Node Vercel CI-CD 
  
 A **Node.js + Express REST API** with full **CRUD operations** on MongoDB Atlas, automated with a **CI/CD Pipeline** using **GitHub Actions** and deployed to **Vercel**.
 
